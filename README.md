@@ -1,1 +1,1 @@
-# Java-Factorializer-Calculating-N-
+# Java Factorializer: Calculating N!
