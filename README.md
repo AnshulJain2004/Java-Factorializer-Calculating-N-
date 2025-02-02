@@ -1,4 +1,4 @@
-**Java Factorializer: Calculating N!**  
+# **Java Factorializer: Calculating N!**  
 This repository contains a simple yet robust Java-based command-line application that calculates the factorial of user-provided integers. It demonstrates core Java programming concepts, including exception handling through a custom `FactorialException` class, input validation, and modular code organization.
 
 ### Features
